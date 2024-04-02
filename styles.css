@@ -1,0 +1,29 @@
+body{
+		color: black;
+		background-color: hex(#004c4c);
+		font-family: "Courier New", monospace;
+		font-size: 2.2 em;
+		}
+		
+a:link {
+  color: rgb(227, 255, 248);
+  background-color: transparent;
+  text-decoration: none;
+	}
+	a:visited {
+	  color: rgb(227, 255, 248);
+	  background-color: transparent;
+	  text-decoration: none;
+	}
+	a:hover {
+	  color: rgb(255, 234, 199);
+	  background-color: transparent;
+	  text-decoration: underline;
+	}
+	
+p{
+		text-align:center;
+	}
+img{
+		text-align:center;
+	}
